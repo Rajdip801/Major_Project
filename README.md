@@ -9,3 +9,4 @@
 
 >>>>>>> 62ab9a90d3afe39abd6f12ae2747d617a15fef57
 # Rajdip->Today created a model using Pytorch
+# Rajdip->todays work with model tensols still figuring CUDA is best or CPU
