@@ -11,3 +11,4 @@
 # Rajdip->Today created a model using Pytorch
 # Rajdip->todays work with model tensols still figuring CUDA is best or CPU
 # Rajdip->Today new dataset uploaded and dummy model created using eval() with 67% 
+# Rajdip->Today new model 2 uploaded which is the main 
